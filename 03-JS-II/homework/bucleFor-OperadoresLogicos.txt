@@ -1,0 +1,15 @@
+// "For" es una expresión que se usa en el lenguaje JavaScript
+y sirve para poder realizar acciones de forma repetida
+en la que podemos aclarar cuando comienza y cuando queremos que deje de hacerlo.
+
+//Los operadores logicos nos permiten tomas distintas expresiones y corroborar si
+son verdaderas o falsas y asi poder ejecutar un codigo, cada operador logico cumple distintas funciones.
+
+//El "&&" que significa "Y" evalua las expresiones en las que todas tienen que ser verdaderas para que se pueda ejecutar
+dicho codigo.
+
+//El "||" que significa "O" en cambio solo necesita que una expresion sea verdadera para ejecutar el codigo.
+
+// Por ultimo el "!" significa "NO", este plantea que para que se ejecute el codigo, la expresion debe
+ser lo contrario a lo que se espera, por ejemplo, si ponemos una expresion con el operador "!" que
+sea falsa, nos dara verdadero ya que es lo contrario.
