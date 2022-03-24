@@ -1,0 +1,4 @@
+// Un Array o matriz nos sirve para poder guardar datos que querramos
+tener enlistados o guardados, como tambien podemos modificarlos
+con el tiempo si es necesario. Se puede tanto cambiar, borrar como agregar datos
+que querramos guardar.
