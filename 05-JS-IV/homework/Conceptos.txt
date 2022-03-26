@@ -1,0 +1,16 @@
+// Objetos: Los objetos son colecionadores de datos, aunque un poco distinto a un arreglo
+// ya que los objetos son utilizados para almacenar mucha informacion sobre una sola cosa.
+
+// Las propiedades de un objeto son los elementos en los que almacenaremos valores en
+// el, estas tienen un nombre unico que no se podra repetir en el mismo objeto.
+
+// Los metodos nos sirven para realizar una funcion o accion dentro de un objeto, estas
+// se escriben como cualquier funcion, dentro de una propiedad.
+
+// Los bucles for... in son como cualquier otro tipo de bucle, pero este nos permite recorrer todas las
+// propiedades de un objeto como tambien los valores asociados a este. Se escriben un poco distinto que
+// un bucle for convencional.
+
+// La notacion de puntos y la notacion de corchetes nos sirven de la misma manera, para llamar a una propiedad
+// de un objeto. La notacion de punto la vamos a utilizar mas que nada cuando llamemos a una propiedad como tal
+// y la notacion de corchetes cuando queramos llamar a una variable asociada una propiedad.
