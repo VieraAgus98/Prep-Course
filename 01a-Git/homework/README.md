@@ -105,7 +105,7 @@ A continuación, escribe lo siguiente en tu terminal:
 
 ```bash
   $ cd repositorio-henry
-  
+
   $ touch archivo-ejemplo.js
 ```
 
