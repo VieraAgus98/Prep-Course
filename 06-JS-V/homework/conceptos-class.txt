@@ -1,0 +1,6 @@
+// Prototype: Es una referencia de un objeto en otro objeto, todos los objetos
+// en JavaScript cuentan con una referencia de otro objeto y este sirve para identificarlos y darles 
+// las mismas propiedades ya asignadas.
+
+// Constructors: Es una funcion que se diseña con una base para poder crear nuevos objetos. Se invocan usando
+// la palabra clave "new"
