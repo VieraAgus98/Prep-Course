@@ -1,0 +1,1 @@
+Callbacks: Un callback en JavaScript basicamente es una funcion usada como parametro en otra funcion, no mucho mas.

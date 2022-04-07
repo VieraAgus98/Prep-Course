@@ -57,7 +57,7 @@ function filter(array) {
   //Devolver un nuevo array con los elementos que cumplen la condición
   //Tu código:
   var letrasA = array.filter (function (elemento){
-    return elemento [0] === "a";
+    return elemento [0] === "a"
   })
   return letrasA;
 }
